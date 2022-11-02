@@ -11,6 +11,6 @@ Python scripting class final project focused on predicting college basketball po
 
 <h3>Environments Used </h3>
 
-- <b>Spyder (Anaconda)</b>
+- <b>Jupyter Notebook (Anaconda)</b>
 
 [Return to Project Homepage](https://github.com/kharmer9/kharmer9/blob/main/README.md)
