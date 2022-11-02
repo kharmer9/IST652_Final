@@ -2,6 +2,8 @@
 
 <h3> Description </h3>
 
+Python scripting class final project focused on predicting college basketball postseason. The purpose of this assignment was to show proficiency in common python packages (pandas, numpy, and matplotlib), while also experimenting with another python package. Machine learning modeling from sklearn was used commonly in this project.
+
 Villanova Mathematics Capstone focusing on winning algorithms for the game snake. This project is broken up into several different components. First, the Snake program, with is included in SnakeProgram2.py, shows the construction of the game environement and the corresponding functions necessary for it to run. Then, it shows the simulation methods, which are found in each of the other .py files. The other files, FinalReport.pdf and the Powerpoint Presentation, are the project deliverables to get an indication of written communication and presentation strength. Technical Explanation is located in the codes and output implementation can be found in the presentation and final code. When viewing project, take a look at the following profiles:
 
  - <b>[FinalPaper.pdf](https://github.com/kharmer9/Snake_Analytics-MAT5900/blob/main/FinalPaper.pdf) to view report </b>
