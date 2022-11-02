@@ -2,15 +2,7 @@
 
 <h3> Description </h3>
 
-Python scripting class final project focused on predicting college basketball postseason. The purpose of this assignment was to show proficiency in common python packages (pandas, numpy, and matplotlib), while also experimenting with another python package. Machine learning modeling from sklearn was used commonly in this project.
-
-Villanova Mathematics Capstone focusing on winning algorithms for the game snake. This project is broken up into several different components. First, the Snake program, with is included in SnakeProgram2.py, shows the construction of the game environement and the corresponding functions necessary for it to run. Then, it shows the simulation methods, which are found in each of the other .py files. The other files, FinalReport.pdf and the Powerpoint Presentation, are the project deliverables to get an indication of written communication and presentation strength. Technical Explanation is located in the codes and output implementation can be found in the presentation and final code. When viewing project, take a look at the following profiles:
-
- - <b>[FinalPaper.pdf](https://github.com/kharmer9/Snake_Analytics-MAT5900/blob/main/FinalPaper.pdf) to view report </b>
- - <b>[SnakeProgram2.py](https://github.com/kharmer9/Snake_Analytics-MAT5900/blob/main/SnakeProgram2.py) to view primary code </b>
- - <b>[SnakeSimulation3.py](https://github.com/kharmer9/Snake_Analytics-MAT5900/blob/main/SnakeSimulation3.py) to view main simulation </b>
-
-A copy of the powerpoint presentation is also available for download [here](https://github.com/kharmer9/Snake_Analytics-MAT5900/raw/main/Slitherin%20Round%20Presentation%202.pptx).
+Python scripting class final project focused on predicting college basketball postseason. The purpose of this assignment was to show proficiency in common python packages (pandas, numpy, and matplotlib), while also experimenting with another python package. Machine learning modeling from sklearn was used commonly in this project. The [report](https://github.com/kharmer9/IST652_Final/blob/main/IST652FinalProject.pdf) organizes all of the work into one coherent written presentation. The [code](https://github.com/kharmer9/IST652_Final/blob/main/IST652%20Final%20Project%20Code.ipynb) is also attached for any necessary references. The dataset with this project is available for download at (https://www.kaggle.com/andrewsundberg/college-basketball-dataset?select=cbb.csv)
 
 <h3>Languages and Utilities Used</h3>
 
