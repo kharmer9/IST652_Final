@@ -2,7 +2,7 @@
 
 <h3> Description </h3>
 
-Python scripting class final project focused on predicting college basketball postseason. The purpose of this assignment was to show proficiency in common python packages (pandas, numpy, and matplotlib), while also experimenting with another python package. Machine learning modeling from sklearn was used commonly in this project. The [report](https://github.com/kharmer9/IST652_Final/blob/main/IST652FinalProject.pdf) organizes all of the work into one coherent written presentation. The [code](https://github.com/kharmer9/IST652_Final/blob/main/IST652%20Final%20Project%20Code.ipynb) is also attached for any necessary references. The dataset with this project is available for download at https://www.kaggle.com/andrewsundberg/college-basketball-dataset?select=cbb.csv
+Python scripting class final project focused on predicting college basketball postseason. The purpose of this assignment was to show proficiency in common python packages (pandas, numpy, and matplotlib), along with common sklearn machine learning modeling from sklearn. The [report](https://github.com/kharmer9/IST652_Final/blob/main/IST652FinalProject.pdf) organizes all of the work into one coherent written presentation. The [code](https://github.com/kharmer9/IST652_Final/blob/main/IST652%20Final%20Project%20Code.ipynb) is also attached for any necessary references. The dataset with this project is available for download at https://www.kaggle.com/andrewsundberg/college-basketball-dataset?select=cbb.csv
 
 <h3>Languages and Utilities Used</h3>
 
