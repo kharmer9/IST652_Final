@@ -18,6 +18,7 @@ Python scripting class final project focused on predicting college basketball po
 - <b>Data Manipulation</b>
 - <b>Descriptive Statistics</b>
 - <b>Machine Learning Classification (SVM, Decision Tree, K-Nearest Neightbor)</b>
+- <b>Grid Search Parameter Tuning</b>
 - <b>Model Prediction and Application</b>
 
 [Return to Project Homepage](https://github.com/kharmer9/kharmer9/blob/main/README.md)
